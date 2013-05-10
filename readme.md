@@ -10,7 +10,7 @@ $ git clone https://github.com/phracker/textual-scripts ~/Library/Application\ S
 $ mv ~/Library/Application\ Support/Textual\ IRC/Scripts/textual-scripts/* ~/Library/Application\ Support/Textual\ IRC/Scripts/
 ```
 
-`/scc` will autojoin their IRC Servers without using the web dialog, you just need to fill in your cookie info.
+`/scc` will autojoin their IRC chans without using the web dialog, you just need to fill in your cookie info.
 
 `/spot` is a custom spotify script for your hacking pleasure.
 
