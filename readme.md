@@ -6,8 +6,8 @@ So I've spent some time getting serious about writing scripts for Textual IRC.  
 Drop these scripts in your `~/Library/Application Support/Textual IRC/Scripts` folder and let the fireworks begin!
 
 ```
-$ git clone https://github.com/phracker/textual-scripts ~/Library/Application\ Support/Textual\ IRC/Scripts/textual-scripts
-$ mv ~/Library/Application\ Support/Textual\ IRC/Scripts/textual-scripts/* ~/Library/Application\ Support/Textual\ IRC/Scripts/
+$ git clone https://github.com/phracker/textual-scripts ~/Library/Application\ Scripts/com.codeux.irc.textual/textual-scripts
+$ mv ~/Library/Application\ Scripts/com.codeux.irc.textual/textual-scripts/* ~/Library/Application\ Scripts/com.codeux.irc.textual/
 ```
 
 `/scc` will autojoin their IRC chans without using the web dialog, you just need to fill in your cookie info.
