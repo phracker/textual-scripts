@@ -29,5 +29,5 @@ $ mv "~/Library/Application Scripts/com.codeux.irc.textual/textual-scripts/*" "~
 `/wr <location>` reports the weather for the provided location.
 
 Some of these scripts were pulled from these guys, but needed some updating to work properly.
-[*] [kylef](https://github.com/kylef)
-[*] [Xeon3D](https://github.com/Xeon3D):
+* [kylef](https://github.com/kylef)
+* [Xeon3D](https://github.com/Xeon3D)
