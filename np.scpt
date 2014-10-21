@@ -5,7 +5,7 @@ on textualcmd()
   # QuickTime Player
   if isRunning("QuickTime Player") then
     tell application "QuickTime Player"
-      if playing of document 1 then set nowPlaying to "is listening to " & name of document 1
+      if playing of document 1 then set nowPlaying to "is playing " & name of document 1
     end tell
   end if
 
