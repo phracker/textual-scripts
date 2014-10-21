@@ -16,7 +16,7 @@ $ mv "~/Library/Application Scripts/com.codeux.irc.textual/textual-scripts/*" "~
 
 `/isgd <url>` shortens a link using [is.gd](http://is.gd).
 
-`/np` is my Now Playing script. Compatible with Quicktime Player, Spotify, iTunes, and Cog.
+`/np` is my Now Playing script. Compatible with Quicktime Player, Spotify, and iTunes.
 
 `/py <python expression>` evaluates a python expression.
 
