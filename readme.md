@@ -1,7 +1,7 @@
 textual-scripts
 ---
 
-So I've spent some time getting serious about writing scripts for Textual IRC.  These are mainly in AppleScript with other languages pinched in here and there.
+Scripts for Textual IRC.  These are mainly in AppleScript with other languages pinched in here and there.
 
 Drop these scripts in your `~/Library/Application Scripts/com.codeux.irc.textual` folder and let the fireworks begin! If this folder isn't present on your machine, create it and add these scripts.
 
