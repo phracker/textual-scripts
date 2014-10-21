@@ -12,7 +12,7 @@ on textualcmd()
   # Spotify
   if isRunning("Spotify") then
     tell application "Spotify"
-      if player state is playing then set nowPlaying to "is listening to " & artist of current track & " - " & name of current track & " (" & album of current track & ")"
+      if player state is playing then set nowPlaying to "is listening to " & artist of current track & " - " & name of current track & " from the album " & album of current track
     end tell
   end if
   
