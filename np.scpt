@@ -24,11 +24,11 @@ on textualcmd()
   end if
 
   # Cog
-  if isRunning("Cog") then
-    tell application "Cog"
-      set nowPlaying to "is listening to " & artist of currententry & " - " & title of currententry & " from the album " & album of currententry & " (" & year of currententry & ") [" & bitrate of currententry & "kbps]"
-    end tell
-  end if
+  # if isRunning("Cog") then
+  #   tell application "Cog"
+  #     set nowPlaying to "is listening to " & artist of currententry & " - " & title of currententry & " from the album " & album of currententry & " (" & year of currententry & ") [" & bitrate of currententry & "kbps]"
+  #   end tell
+  # end if
 
   return "/me " & nowPlaying
   
