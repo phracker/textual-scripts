@@ -3,11 +3,11 @@ textual-scripts
 
 Scripts for Textual IRC.  These are mainly in AppleScript with other languages pinched in here and there.
 
-Drop these scripts in your `~/Library/Application Scripts/com.codeux.irc.textual` folder and let the fireworks begin! If this folder isn't present on your machine, create it and add these scripts.
+Drop these scripts in your `~/Library/Application Scripts/com.codeux.irc.textual5` folder and let the fireworks begin! If this folder isn't present on your machine, create it and add these scripts.
 
 ```
-$ git clone https://github.com/phracker/textual-scripts "~/Library/Application Scripts/com.codeux.irc.textual/textual-scripts"
-$ mv "~/Library/Application Scripts/com.codeux.irc.textual/textual-scripts/*" "~/Library/Application Scripts/com.codeux.irc.textual/" && rm -rf "~/Library/Application Scripts/com.codeux.irc.textual/textual-scripts"
+$ git clone https://github.com/phracker/textual-scripts "~/Library/Application Scripts/com.codeux.irc.textual5/textual-scripts"
+$ mv "~/Library/Application Scripts/com.codeux.irc.textual5/textual-scripts/*" "~/Library/Application Scripts/com.codeux.irc.textual5/" && rm -rf "~/Library/Application Scripts/com.codeux.irc.textual5/textual-scripts"
 ```
 
 `/dns <Domain Name or IP Address>` gets the dns entry for its argument.
